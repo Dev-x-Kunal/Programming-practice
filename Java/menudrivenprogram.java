@@ -24,6 +24,8 @@ public class menudrivenprogram {
                     System.out.println("This is Good");
                 }else if(Marks >=60){
                      System.out.println("This is Also Good");
+                }else if(Marks >=45){
+                     System.out.println("This is Also a Good marks");
                 }else{
                      System.out.println("This is Good as well");
                 }
