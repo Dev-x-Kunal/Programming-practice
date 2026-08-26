@@ -4,9 +4,9 @@ My programming practice, problem-solving, and DSA journey using C, Java, and Pyt
 
 ## Languages
 
-- C
+
 - Java
-- Python
+
 
 ## Topics
 
