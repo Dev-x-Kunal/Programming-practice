@@ -11,15 +11,15 @@ public class CountDigits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a Number: ");
-        int a = sc.nextInt();
+        int N = sc.nextInt();
 
         int count =0;
-        if(a ==0){
+        if(N ==0){
             count =1;
         } else{
-            a = Math.abs(a);
+            N = Math.abs(N);
 
-            for(;a>0;a=a/10){
+            for(;N>0;N=N/10){
                 count++;
             }
         }
