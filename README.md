@@ -1,6 +1,6 @@
 # Programming Practice
 
-My programming practice, problem-solving, and DSA journey using C, Java, and Python.
+My programming practice, problem-solving, and DSA journey using  Java.
 
 ## Languages
 
